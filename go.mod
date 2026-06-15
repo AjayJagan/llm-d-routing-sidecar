@@ -1,6 +1,6 @@
 module github.com/llm-d/llm-d-routing-sidecar
 
-go 1.24.2
+go 1.25.0
 
 require (
 	github.com/go-logr/logr v1.4.2
@@ -21,7 +21,7 @@ require (
 	github.com/stretchr/testify v1.10.0 // indirect
 	go.uber.org/automaxprocs v1.6.0 // indirect
 	golang.org/x/net v0.38.0 // indirect
-	golang.org/x/sys v0.32.0 // indirect
+	golang.org/x/sys v0.46.0 // indirect
 	golang.org/x/text v0.23.0 // indirect
 	golang.org/x/tools v0.31.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
